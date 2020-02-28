@@ -41,5 +41,3 @@ Then the installation will put the default configuration file into
 default path for configuration file is 
 /usr/local/
 
-
-# Containerize Opensips-3.0 using Docker
