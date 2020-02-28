@@ -73,4 +73,3 @@
 ####    /etc/opensips/
             These are the files copied to this directory. The files include the RADIUS dictionary to be used for OpenSIPS, the main configuration file opensips.cfg, the opensipsctl resource file, opensipsctlrc, and the osipsconsole resource file, osipconsolerc.
 
-####    /lib/opensips/modules/
